@@ -1,2 +1,2 @@
-# WDIO Project 1 (Automation Exercises)
+# WDIO Project 1 (Automation Exercise)
 
