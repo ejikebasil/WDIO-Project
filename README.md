@@ -1,2 +1,2 @@
-# WDIO-Project
-My first VS Code on Git hub
+# WDIO Project 1 (Automation Exercises)
+
